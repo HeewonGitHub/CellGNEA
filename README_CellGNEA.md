@@ -2,7 +2,7 @@
 
 This repository contains the toy dataset and R code used in the analyses for the paper:
 
-**"Inferring Cell Line-Specific Gene Network Enrichment Patterns Along Continuous Phenotypes"**
+**"CellGNEA: Cell Line–Specific Gene Network Enrichment Analysis for Interpreting Continuous Phenotypes"**
 
 ---
 
