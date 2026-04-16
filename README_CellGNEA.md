@@ -14,7 +14,7 @@ CellGNEA is a framework designed to identify **pathway-level enrichment patterns
   <img src="Figure/GraphicalAbstract_CellGNEA_v2.jpg" width="700">
 </p>
 
----
+```
 **The method integrates:**
 - Cell-specific network inference
 - Network topology features (i.e., Clustering Coefficient, PageRank, Regulatory effects)
