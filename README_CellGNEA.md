@@ -10,7 +10,6 @@ This repository contains the toy dataset and R code used in the analyses for the
 
 CellGNEA is a framework designed to identify **pathway-level enrichment patterns** from **cell line–specific gene regulatory networks along a continuous phenotype** (e.g., drug response, cancer progression).
 
-### Graphical Abstract
 <p align="center">
   <img src="Figure/GraphicalAbstract_CellGNEA_v2.jpg" width="700">
 </p>
