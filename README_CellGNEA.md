@@ -12,7 +12,7 @@ CellGNEA is a framework designed to identify **pathway-level enrichment patterns
 
 ### Graphical Abstract
 <p align="center">
-  <img src="Figure/GraphicalAbstract_CellGNEA_v2.jpg" width="500">
+  <img src="Figure/GraphicalAbstract_CellGNEA_v2.jpg" width="700">
 </p>
 
 The method integrates:
