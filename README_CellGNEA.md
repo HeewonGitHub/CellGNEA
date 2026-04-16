@@ -8,7 +8,7 @@ This repository contains the toy dataset and R code used in the analyses for the
 
 ## 🔬 Overview
 
-CellGNEA is a framework designed to identify **pathway-level enrichment patterns** from **cell line–specific gene regulatory networks** along a continuous phenotype (e.g., drug response, cancer progression).
+CellGNEA is a framework designed to identify **pathway-level enrichment patterns** from **cell line–specific gene regulatory networks along a continuous phenotype** (e.g., drug response, cancer progression).
 
 The method integrates:
 - Cell-specific network inference
