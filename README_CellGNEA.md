@@ -293,7 +293,7 @@ print(Pvalue)
 
 ---
 
-### Step 5. Visualize Enrichment score 
+### Step 6. Visualize Enrichment score 
 ```r
 par(mar = c(2,1,1.5,1))
 plot(erSCORE_ORG[,6],pch=3,cex=1,main="Enrichment Score",ylab="",col='#2F4F4F',yaxt='n',xlab="", cex.main=1.5, col.axis="gray50")
